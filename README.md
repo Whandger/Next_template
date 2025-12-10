@@ -26,5 +26,3 @@ Um template limpo e funcional para iniciar projetos rapidamente.
     npm run dev
     ```
     Abra [http://localhost:3000](http://localhost:3000) no navegador para ver o site.
-
-## 🗂️ Estrutura do Projeto
